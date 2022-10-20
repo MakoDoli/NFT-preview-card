@@ -23,8 +23,8 @@ h2,
   font-weight: 600;
 }
 
-h2:active,
-.name-white:active,
+h2:hover,
+.name-white:hover,
 .etherium p {
   color: #00fff8;
 }
@@ -76,7 +76,7 @@ footer {
   z-index: 2;
 }
 
-.static:active {
+.static:hover {
   opacity: 0.5;
   z-index: 0;
 }
